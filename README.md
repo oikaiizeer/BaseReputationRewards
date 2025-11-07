@@ -1,7 +1,7 @@
 # 🏆 Base Reputation Rewards
 
 A gamified on-chain reputation system built for Base blockchain that rewards user engagement and community participation.
-
+done 
 ## ✨ Features
 
 - **Daily Check-ins** - Earn reputation points every day with streak multipliers
@@ -29,7 +29,7 @@ A gamified on-chain reputation system built for Base blockchain that rewards use
 3. **Trusted Contributor** - 500 points
 4. **Community Leader** - 1,000 points
 5. **Legend** - 5,000 points
-
+ok
 ### Level System
 
 Your level increases automatically: `Level = (Reputation Points / 100) + 1`
