@@ -1,7 +1,7 @@
 # 🏆 Base Reputation Rewards
 
 A gamified on-chain reputation system built for Base blockchain that rewards user engagement and community participation.
-
+done 
 ## ✨ Features
 
 - **Daily Check-ins** - Earn reputation points every day with streak multipliers
