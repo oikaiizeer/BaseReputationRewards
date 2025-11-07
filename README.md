@@ -3,7 +3,7 @@
 A gamified on-chain reputation system built for Base blockchain that rewards user engagement and community participation.
 
 ## ✨ Features
-
+done 
 - **Daily Check-ins** - Earn reputation points every day with streak multipliers
 - **Peer Endorsements** - Community members can endorse each other
 - **Achievement Badges** - Unlock badges as you progress through reputation tiers
